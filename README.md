@@ -1,5 +1,11 @@
 # The Dynamics of Global CO₂ Emissions: Economic Growth, Sectoral Contributions, and the Transition to Renewable Energy
 
+## Tableau Public Link
+
+[CO2 Emissions Analysis & Renewable Energy Trends](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/CO2EmissionsAnalysisRenewableEnergyTrends)
+
+[Economic Growth and Environmental Sustainability](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/EconomicGrowthandEnvironmentalSustainability)
+
 ## Overview
 
 This Tableau project analyzes global CO₂ emissions, their relationship with economic growth, sectoral contributions, and the shift to renewable energy. The dashboard provides insights into historical trends, regional variations, and economic impacts on emissions, helping to inform sustainability efforts and policy decisions.
@@ -57,10 +63,10 @@ Emissions vs. Economic Growth: Scatter plots and trend analyses comparing GDP pe
 
 Regional Renewable Energy Share: Bar charts visualizing renewable energy contributions across different regions.
 
-## Tableau Public Link
+## Dashboard
 
-[CO2 Emissions Analysis & Renewable Energy Trends](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/CO2EmissionsAnalysisRenewableEnergyTrends)
+<img src="https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS
+/blob/main/CO2 Emissions Analysis & Renewable Energy Trends.png"
 
-[Economic Growth and Environmental Sustainability](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/EconomicGrowthandEnvironmentalSustainability)
 
 
