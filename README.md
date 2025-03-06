@@ -59,4 +59,8 @@ Regional Renewable Energy Share: Bar charts visualizing renewable energy contrib
 
 ## Tableau Public Link
 
-link---
+[CO2 Emissions Analysis & Renewable Energy Trends](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/CO2EmissionsAnalysisRenewableEnergyTrends)
+
+[Economic Growth and Environmental Sustainability](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/CO2EmissionsAnalysis_final/EconomicGrowthandEnvironmentalSustainability)
+
+
