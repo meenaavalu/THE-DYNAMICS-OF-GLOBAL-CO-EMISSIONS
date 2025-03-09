@@ -2,8 +2,7 @@
 
 ## Dashboard
 
-<img src="https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS/blob/main/CO2 Emissions Analysis & Renewable Energy Trends.png" width="600">
-<img src="https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS/blob/main/Economic Growth and Environmental Sustainability.png" width="600">
+<img src="https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS/blob/main/CO2 Emissions Analysis & Renewable Energy Trends.png" width="500"> <img src="https://github.com/meenaavalu/THE-DYNAMICS-OF-GLOBAL-CO-EMISSIONS/blob/main/Economic Growth and Environmental Sustainability.png" width="500">
 
 ## Tableau Public Link
 
